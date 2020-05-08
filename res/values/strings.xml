@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name" translatable="false">XposedMtceUtils</string>
+    <string name="app_version_name" translatable="false">1.14</string>    
+    <string name="app_desc">Module for changes into Microntek MTCE(D) service</string>
+
+</resources>
